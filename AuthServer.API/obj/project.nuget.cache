@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FLob6wfvQEA4+xAJFcsvK51e1i9xKUlfEX/BxNYJVBH1Z+mvS68k8a9ZhBf0s1xWF7aRAMyjy2t/faJggJiZZg==",
+  "dgSpecHash": "PyM1arTlxe/tXuAY/Qqekc9VL+nMRRBX23GA3hqdlhAqi2skbfd+h20LHH7JKGB52UYrc0Yxy5Y8pI2GRTUoKQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
+  "projectFilePath": "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\AuthServer.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\aynur\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

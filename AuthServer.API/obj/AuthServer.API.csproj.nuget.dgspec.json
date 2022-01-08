@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {}
+    "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\AuthServer.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\AuthServer.API.csproj": {
+    "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\AuthServer.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
+        "projectUniqueName": "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\AuthServer.API.csproj",
         "projectName": "AuthServer.API",
-        "projectPath": "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\AuthServer.API.csproj",
+        "projectPath": "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\AuthServer.API.csproj",
         "packagesPath": "C:\\Users\\aynur\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\aynur\\source\\repos\\AuthServer\\AuthServer.API\\obj\\",
+        "outputPath": "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\aynur\\AppData\\Roaming\\NuGet\\NuGet.Config",
