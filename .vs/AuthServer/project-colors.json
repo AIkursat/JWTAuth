@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b06115fd-ab17-4354-a56e-8a3f7d0fe199": {
+      "ProjectGuid": "b06115fd-ab17-4354-a56e-8a3f7d0fe199",
+      "DisplayName": "AuthServer.API",
+      "ColorIndex": 0
+    },
+    "fd7000ed-f014-45f3-9af4-50d5529ec992": {
+      "ProjectGuid": "fd7000ed-f014-45f3-9af4-50d5529ec992",
+      "DisplayName": "AuthServer.Core",
+      "ColorIndex": 1
+    },
+    "c874c8f4-ea44-4ea8-90e5-60330fe63c20": {
+      "ProjectGuid": "c874c8f4-ea44-4ea8-90e5-60330fe63c20",
+      "DisplayName": "AuthServer.Data",
+      "ColorIndex": 2
+    },
+    "67f8d140-97e3-4cad-8537-debc83a6aa03": {
+      "ProjectGuid": "67f8d140-97e3-4cad-8537-debc83a6aa03",
+      "DisplayName": "AuthServer.Service",
+      "ColorIndex": 3
+    },
+    "bd5f0ea8-54d9-44ee-8a09-1fb24941a783": {
+      "ProjectGuid": "bd5f0ea8-54d9-44ee-8a09-1fb24941a783",
+      "DisplayName": "MiniAPI1.API",
+      "ColorIndex": 4
+    },
+    "4c1c3085-21b7-497b-ab4d-717a5141c1a5": {
+      "ProjectGuid": "4c1c3085-21b7-497b-ab4d-717a5141c1a5",
+      "DisplayName": "MiniAPI2.API",
+      "ColorIndex": 5
+    },
+    "2fe3fa4d-ceb4-4164-b0bc-0a029af50738": {
+      "ProjectGuid": "2fe3fa4d-ceb4-4164-b0bc-0a029af50738",
+      "DisplayName": "MiniAPI3.API",
+      "ColorIndex": 6
+    },
+    "7317ef7a-63d9-498d-9b10-1745746cdd14": {
+      "ProjectGuid": "7317ef7a-63d9-498d-9b10-1745746cdd14",
+      "DisplayName": "MiniApp.API",
+      "ColorIndex": 7
+    },
+    "410e1886-d4f0-4bbf-90fa-c2e9052b22bc": {
+      "ProjectGuid": "410e1886-d4f0-4bbf-90fa-c2e9052b22bc",
+      "DisplayName": "MiniApp1.API",
+      "ColorIndex": 8
+    },
+    "ae76fc50-07db-4f84-9165-95d90e0cc44a": {
+      "ProjectGuid": "ae76fc50-07db-4f84-9165-95d90e0cc44a",
+      "DisplayName": "MiniApp2.API",
+      "ColorIndex": 9
+    },
+    "06a77c1e-ce01-43f7-9036-7d5f6a7ccb62": {
+      "ProjectGuid": "06a77c1e-ce01-43f7-9036-7d5f6a7ccb62",
+      "DisplayName": "MiniApp3.API",
+      "ColorIndex": 10
+    }
+  },
+  "NextColorIndex": 11
+}

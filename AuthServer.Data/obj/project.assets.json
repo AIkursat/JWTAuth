@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "AuthServer.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/AuthServer.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AuthServer.Core.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AuthServer.Core/1.0.0": {
+      "type": "project",
+      "path": "../AuthServer.Core/AuthServer.Core.csproj",
+      "msbuildProject": "../AuthServer.Core/AuthServer.Core.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "AuthServer.Core >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\aynur\\.nuget\\packages\\": {}
@@ -33,7 +52,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.Core\\AuthServer.Core.csproj": {
+              "projectPath": "C:\\Users\\aynur\\Source\\Repos\\JWTAuth\\AuthServer.Core\\AuthServer.Core.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

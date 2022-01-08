@@ -1,0 +1,17 @@
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Service.deps.json
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Service.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\ref\AuthServer.Service.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Service.pdb
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Core.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Data.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\bin\Debug\net5.0\AuthServer.Core.pdb
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.csproj.AssemblyReference.cache
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.AssemblyInfoInputs.cache
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.AssemblyInfo.cs
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.csproj.CoreCompileInputs.cache
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.csproj.CopyComplete
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\ref\AuthServer.Service.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Service\obj\Debug\net5.0\AuthServer.Service.pdb
