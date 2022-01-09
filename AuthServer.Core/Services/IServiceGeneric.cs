@@ -10,6 +10,7 @@ namespace AuthServer.Core.Services
 {
     public interface IServiceGeneric< TEntity, TDto> where TEntity : class where TDto : class
     {
+        //
         Task<Response<TDto>> GetByIdAsync(int id);
 
         Task<Response<IEnumerable<TDto>>> GetAllAsync();
@@ -18,8 +19,8 @@ namespace AuthServer.Core.Services
 
         Task<Response<TDto>> AddAsync(TDto entity);
 
-        void Remove(int id);
+        Task<Response<NoDataDto>> Remove(int id);
 
-        TEntity Update(TDto entity, int id);
+        Task<Response<NoDataDto>> Update(TDto entity, int id); // Because we don't return anything in delete and update.
     }
 }

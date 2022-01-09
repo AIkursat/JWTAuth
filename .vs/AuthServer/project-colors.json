@@ -80,7 +80,12 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Miscellaneous Files",
       "ColorIndex": -1
+    },
+    "a331c38c-9692-4e3f-a8b8-d71684410aee": {
+      "ProjectGuid": "a331c38c-9692-4e3f-a8b8-d71684410aee",
+      "DisplayName": "AuthServer.Core",
+      "ColorIndex": 15
     }
   },
-  "NextColorIndex": 15
+  "NextColorIndex": 0
 }
