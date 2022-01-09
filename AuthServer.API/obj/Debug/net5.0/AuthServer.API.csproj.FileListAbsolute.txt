@@ -22,7 +22,6 @@ C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Microsoft.Op
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\MiniApp1.API.dll
@@ -30,7 +29,6 @@ C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\SharedLibrar
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Service.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\MiniApp1.API.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\SharedLibrary.pdb
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Core.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\AuthServer.Data.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\scopedcss\bundle\AuthServer.API.styles.css
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\staticwebassets\AuthServer.API.StaticWebAssets.Manifest.cache
@@ -40,7 +38,3 @@ C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.A
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\ref\AuthServer.API.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.API.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.API.genruntimeconfig.cache
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\EntityFramework.dll
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
-C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll
