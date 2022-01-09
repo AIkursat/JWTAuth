@@ -55,7 +55,27 @@
       "ProjectGuid": "06a77c1e-ce01-43f7-9036-7d5f6a7ccb62",
       "DisplayName": "MiniApp3.API",
       "ColorIndex": 10
+    },
+    "fe2c412a-2381-4f90-b587-f74325a0401a": {
+      "ProjectGuid": "fe2c412a-2381-4f90-b587-f74325a0401a",
+      "DisplayName": "MiniApp1.API",
+      "ColorIndex": 11
+    },
+    "fcd0b633-2232-441f-97a2-7c85f14c7fd1": {
+      "ProjectGuid": "fcd0b633-2232-441f-97a2-7c85f14c7fd1",
+      "DisplayName": "MiniApp2.API",
+      "ColorIndex": 12
+    },
+    "f5144048-24f1-4d83-959f-1f779ea4e27a": {
+      "ProjectGuid": "f5144048-24f1-4d83-959f-1f779ea4e27a",
+      "DisplayName": "MiniApp3.API",
+      "ColorIndex": 13
+    },
+    "5061363a-e0ce-4ab5-b2f3-0d92398e93fb": {
+      "ProjectGuid": "5061363a-e0ce-4ab5-b2f3-0d92398e93fb",
+      "DisplayName": "SharedLibrary",
+      "ColorIndex": 14
     }
   },
-  "NextColorIndex": 11
+  "NextColorIndex": 15
 }
