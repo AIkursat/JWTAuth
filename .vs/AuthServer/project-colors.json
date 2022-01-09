@@ -75,6 +75,11 @@
       "ProjectGuid": "5061363a-e0ce-4ab5-b2f3-0d92398e93fb",
       "DisplayName": "SharedLibrary",
       "ColorIndex": 14
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
   "NextColorIndex": 15

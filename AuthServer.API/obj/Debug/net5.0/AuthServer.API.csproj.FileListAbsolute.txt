@@ -40,3 +40,7 @@ C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.A
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\ref\AuthServer.API.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.API.pdb
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\obj\Debug\net5.0\AuthServer.API.genruntimeconfig.cache
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\EntityFramework.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.Core.dll
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.API\bin\Debug\net5.0\Microsoft.AspNet.Identity.EntityFramework.dll

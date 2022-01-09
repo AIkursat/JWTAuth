@@ -13,7 +13,7 @@ namespace SharedLibrary.Dtos
 
         public ErrorDto()
         {
-            Errors = new List<String>();
+            Errors = new List<string>();
         }
 
         public ErrorDto(string error, bool isShow)
@@ -23,7 +23,7 @@ namespace SharedLibrary.Dtos
             IsShow = isShow;
         }
 
-        public ErrorDto(List<String> errors, bool isShow)
+        public ErrorDto(List<string> errors, bool isShow)
         {
             // for overload.
             Errors=errors;
