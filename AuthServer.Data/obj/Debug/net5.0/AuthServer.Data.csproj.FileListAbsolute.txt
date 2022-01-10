@@ -9,3 +9,7 @@ C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\AuthServer.
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\ref\AuthServer.Data.dll
 C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.pdb
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.csproj.AssemblyReference.cache
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.json
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\bin\Debug\net5.0\AuthServer.Data.runtimeconfig.dev.json
+C:\Users\aynur\Source\Repos\JWTAuth\AuthServer.Data\obj\Debug\net5.0\AuthServer.Data.genruntimeconfig.cache

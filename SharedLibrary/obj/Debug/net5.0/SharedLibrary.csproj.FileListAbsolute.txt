@@ -9,4 +9,3 @@ C:\Users\aynur\Source\Repos\JWTAuth\SharedLibrary\obj\Debug\net5.0\SharedLibrary
 C:\Users\aynur\Source\Repos\JWTAuth\SharedLibrary\obj\Debug\net5.0\SharedLibrary.dll
 C:\Users\aynur\Source\Repos\JWTAuth\SharedLibrary\obj\Debug\net5.0\ref\SharedLibrary.dll
 C:\Users\aynur\Source\Repos\JWTAuth\SharedLibrary\obj\Debug\net5.0\SharedLibrary.pdb
-C:\Users\aynur\Source\Repos\JWTAuth\SharedLibrary\obj\Debug\net5.0\SharedLibrary.csproj.AssemblyReference.cache
