@@ -16,10 +16,15 @@ namespace AuthServer.Data
         {
 
         }
-
+        // With Identity, there will be many table in the db because its coming from IdentityDbContext.
         public DbSet<Product> products { get; set; }
         public DbSet<UserRefreshToken> userRefreshTokens { get; set; }
 
 
-}
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+        }
+
+    }
 }
