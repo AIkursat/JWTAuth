@@ -23,7 +23,9 @@ namespace AuthServer.Data
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            base.OnModelCreating(builder);
+            builder.ApplyConfigurationsFromAssembly(GetType().Assembly); // It will reach our all classes which used IEntityTypeConfiguration.
+
+
         }
 
     }
