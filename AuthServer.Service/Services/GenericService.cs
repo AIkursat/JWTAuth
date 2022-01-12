@@ -45,7 +45,7 @@ namespace AuthServer.Service.Services
             var products = ObjectMapper.Mapper.Map<List<TDto>>(await _genericRepository.GetAllAsync());
 
             return Response<IEnumerable<TDto>>.Success(products, 200);
-
+             
 
         }
 
